@@ -43,7 +43,7 @@ If you discover any security related issues, please email danielsupernault@gmail
 The GNU Affero General Public License (AGPL). Please see [License File](LICENSE.md) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/dansup/php-activitypub.svg?style=flat-square
-[ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
+[ico-license]: https://img.shields.io/badge/license-AGPL-brightgreen.svg?style=flat-square
 [ico-travis]: https://img.shields.io/travis/dansup/php-activitypub/master.svg?style=flat-square
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/dansup/php-activitypub.svg?style=flat-square
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/dansup/php-activitypub.svg?style=flat-square
