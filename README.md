@@ -1,7 +1,7 @@
 # php-activitypub
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
-[![Software License][ico-license]](LICENSE.md)
+[![Software License][ico-license]](LICENSE)
 [![Build Status][ico-travis]][link-travis]
 [![Coverage Status][ico-scrutinizer]][link-scrutinizer]
 [![Quality Score][ico-code-quality]][link-code-quality]
@@ -40,7 +40,7 @@ If you discover any security related issues, please email danielsupernault@gmail
 
 ## License
 
-The GNU Affero General Public License (AGPL). Please see [License File](LICENSE.md) for more information.
+The GNU Affero General Public License (AGPL). Please see [License File](LICENSE) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/dansup/php-activitypub.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-AGPL-brightgreen.svg?style=flat-square
